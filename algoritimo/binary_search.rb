@@ -25,7 +25,7 @@ last = array.length - 1
   
 puts "Array => #{array}"
 puts "Número: #{num}"
-  
+                        
 result = binary_search(array, num, first, last)
   
 unless result == -1

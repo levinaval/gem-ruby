@@ -1,5 +1,7 @@
 ## linguagem ruby 2021 
-projeto de mentoria e desenvolvimento do ruby
+Algoritmos e desafios em Ruby
+
+Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de algoritmos e problemas de programação.
 
 ## Algoritmos
 
@@ -15,3 +17,6 @@ projeto de mentoria e desenvolvimento do ruby
   * Maximize Array ([Descrição](https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/) | [Código](/algoritimo/maximize_array.rb))
   * Minimum_product ([Descrição](https://www.geeksforgeeks.org/minimum-product-subset-array/) | [Código](/algoritimo/minimum_product.rb))
  
+ ## Reconhecimentos
+
+Projeto parte da mentoria do canal [Desenvolvendo Me](https://www.youtube.com/channel/UCp98bXHSc01w8fBfkkgHB1Q), por [Marco Castro](https://github.com/marcodotcastro).

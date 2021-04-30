@@ -13,4 +13,5 @@ projeto de mentoria e desenvolvimento do ruby
   * Merge Sort ([Descrição](https://www.geeksforgeeks.org/merge-sort/) | [Código](/algoritimo/merge_sort.rb))
 * Greedy algorithms
   * Maximize Array ([Descrição](https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/) | [Código](/algoritimo/maximize_array.rb))
+  * Minimum_product ([Descrição](https://www.geeksforgeeks.org/minimum-product-subset-array/) | [Código](/algoritimo/minimum_product.rb))
  

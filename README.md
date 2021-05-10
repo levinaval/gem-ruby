@@ -19,6 +19,7 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
   * Maximize Array ([Descrição](https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/) | [Código](/algoritimo/maximize_array.rb))
   * Minimum_product ([Descrição](https://www.geeksforgeeks.org/minimum-product-subset-array/) | [Código](/algoritimo/minimum_product.rb))
   * Minimum Sum Pairs ([Descrição](https://www.geeksforgeeks.org/minimum-sum-choosing-minimum-pairs-array/) | [Código](/algoritimo/minimum_sum_product.rb))
+  * Minimum Sum Product([Descrição](https://www.geeksforgeeks.org/minimum-sum-choosing-minimum-pairs-array/) | [Código](/algoritimo/minimum_sum_product.rb))
  
  ## Reconhecimentos
 

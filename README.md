@@ -13,7 +13,8 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
 * Sorting algorithms
   * Bubble Sort ([Descrição](https://www.geeksforgeeks.org/bubble-sort/) | [Código](/algoritimo/bubble_sort.rb))
   * Counting Sort ([Descrição](https://www.geeksforgeeks.org/counting-sort/) | [Código](/algoritimo/counting_sort.rb))
-  * Merge Sort ([Descrição](https://www.geeksforgeeks.org/merge-sort/) | [Código](/algoritimo/merge_sort.rb))
+  * Merge Sort ([Descrição](https://www.geeksforgeeks.org/merge-sort/) | [Código](/algoritimo/merge_sort.rb))   
+  * Selection Sort ([Descrição](https://www.geeksforgeeks.org/selection-sort/) | [Código](/algoritimo/selection_sort.rb))
 * Greedy algorithms
   * Maximize Array ([Descrição](https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/) | [Código](/algoritimo/maximize_array.rb))
   * Minimum_product ([Descrição](https://www.geeksforgeeks.org/minimum-product-subset-array/) | [Código](/algoritimo/minimum_product.rb))

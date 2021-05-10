@@ -22,6 +22,24 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
   * Minimum Sum Pairs ([Descrição](https://www.geeksforgeeks.org/minimum-sum-choosing-minimum-pairs-array/) | [Código](/algoritimo/minimum_sum_product.rb))
   * Minimum Sum Product([Descrição](https://www.geeksforgeeks.org/minimum-sum-choosing-minimum-pairs-array/) | [Código](/algoritimo/minimum_sum_product.rb))
  
+ ## Problemas
+ 
+ * String
+  *  Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](/problemas/missing_characters.rb))
+  *  ([Descrição]() | [Código](/problemas/))
+  *  ([Descrição]() | [Código](/problemas/))
+  *  ([Descrição]() | [Código](/problemas/))
+ * Array
+  *  ([Descrição]() | [Código](/problemas/))
+  *  ([Descrição]() | [Código](/problemas/))
+  *  ([Descrição]() | [Código](/problemas/))
+  *  ([Descrição]() | [Código](/problemas/))
+ * Date
+  *  ([Descrição]() | [Código](/problemas/))
+  *  ([Descrição]() | [Código](/problemas/))
+  *  ([Descrição]() | [Código](/problemas/))
+ 
+
  ## Reconhecimentos
 
 Projeto parte da mentoria do canal [Desenvolvendo Me](https://www.youtube.com/channel/UCp98bXHSc01w8fBfkkgHB1Q), por [Marco Castro](https://github.com/marcodotcastro).

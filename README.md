@@ -1,4 +1,5 @@
-## linguagem ruby 2021 
+##  gem-ruby
+
 Algoritmos e desafios em Ruby
 
 Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de algoritmos e problemas de programação.

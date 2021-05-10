@@ -9,6 +9,7 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
   * Linear Search ([Descrição](https://www.geeksforgeeks.org/linear-search/) | [Código](/algoritimo/linear_search.rb))
   * Binary Search ([Descrição](https://www.geeksforgeeks.org/binary-search/) | [Código](/algoritimo/binary_search.rb))
   * Jump Search ([Descrição](https://www.geeksforgeeks.org/jump-search/) | [Código](/algoritimo/jump_search.rb))
+  * Find Missing Number([Descrição](https://www.geeksforgeeks.org/find-the-missing-number/) | [Código](/algoritimo/find_missing_number.rb))
 * Sorting algorithms
   * Bubble Sort ([Descrição](https://www.geeksforgeeks.org/bubble-sort/) | [Código](/algoritimo/bubble_sort.rb))
   * Counting Sort ([Descrição](https://www.geeksforgeeks.org/counting-sort/) | [Código](/algoritimo/counting_sort.rb))

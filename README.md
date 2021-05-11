@@ -25,7 +25,7 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
  ## Problemas
  
  * String
-  *  Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](/problemas/missing_characters.rb))
+  *  Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/missing_characters.rb))
   *  ([Descrição]() | [Código](/problemas/))
   *  ([Descrição]() | [Código](/problemas/))
   *  ([Descrição]() | [Código](/problemas/))

@@ -27,7 +27,7 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
  * String
   *  Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/missing_characters.rb))
   *  Count([Descrição](https://www.geeksforgeeks.org/count-uppercase-lowercase-special-character-numeric-values/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/count.rb))
-  *  Common Characters([Descrição](https://www.geeksforgeeks.org/common-characters-n-strings/) | [Código](/problemas/common_characters.rb))
+  *  Common Characters([Descrição](https://www.geeksforgeeks.org/common-characters-n-strings/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/common_characters.rb))
   *  ([Descrição]() | [Código](/problemas/))
  * Array
   *  ([Descrição]() | [Código](/problemas/))

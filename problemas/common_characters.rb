@@ -23,6 +23,6 @@ def common_characters(*strings)
   
   # Test cases
   
-  # puts common_characters('geeksforgeeks', 'gemkstones', 'acknowledges', 'aguelikes').to_s # Output: e g k s
+   puts common_characters('geeksforgeeks', 'gemkstones', 'acknowledges', 'aguelikes').to_s # Output: e g k s
   # puts common_characters('apple', 'orange').to_s # Output: a e
   

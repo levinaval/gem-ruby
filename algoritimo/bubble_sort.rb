@@ -3,7 +3,7 @@ def bubble_sort(arr)
   
     # Percorrer todos os elementos da matriz
     for i in 0..n
-  
+
         #Últimos elementos i já estão no lugar
         (n-1).times do |j|
   

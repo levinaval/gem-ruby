@@ -1,0 +1,4 @@
+example_id                                | status | run_time        |
+----------------------------------------- | ------ | --------------- |
+./spec/algoritmo/sort/bubble_spec.rb[1:1] | passed | 0.00077 seconds |
+./spec/algoritmo/sort/bubble_spec.rb[1:2] | passed | 0.00026 seconds |

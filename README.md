@@ -25,19 +25,19 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
  ## Problemas
  
  * String
-  *  Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/missing_characters.rb))
-  *  Count([Descrição](https://www.geeksforgeeks.org/count-uppercase-lowercase-special-character-numeric-values/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/count.rb))
-  *  Common Characters([Descrição](https://www.geeksforgeeks.org/common-characters-n-strings/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/common_characters.rb))
-  *  Group Words([Descrição](https://www.geeksforgeeks.org/print-words-together-set-characters/) | [Código]())
+   *  Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/missing_characters.rb))
+   *  Count([Descrição](https://www.geeksforgeeks.org/count-uppercase-lowercase-special-character-numeric-values/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/count.rb))
+   *  Common Characters([Descrição](https://www.geeksforgeeks.org/common-characters-n-strings/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/common_characters.rb))
+   *  Group Words([Descrição](https://www.geeksforgeeks.org/print-words-together-set-characters/) | [Código]())
  * Array
-  *  ([Descrição]() | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
+   *  Find Three([Descrição](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/find_three.rb))
+   *  Reversal([Descrição](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reversal.rb))
+   *  Reorder Index([Descrição](https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reorder_index.rb))
+   *  ([Descrição]() | [Código](/problemas/))
  * Date
-  *  ([Descrição]() | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
+   *  ([Descrição]() | [Código](/problemas/))
+   *  ([Descrição]() | [Código](/problemas/))
+   *  ([Descrição]() | [Código](/problemas/))
  
 
  ## Reconhecimentos

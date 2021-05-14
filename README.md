@@ -30,14 +30,16 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
   *  Common Characters([Descrição](https://www.geeksforgeeks.org/common-characters-n-strings/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/common_characters.rb))
   *  Group Words([Descrição](https://www.geeksforgeeks.org/print-words-together-set-characters/) | [Código](https://github.com/levinaval/gem-ruby/commit/409aa3a4430149cb1f1ca9215ff1f3e513e282eb))
  * Array
-  *  Find Three([Descrição](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/group_words.rb))
+  *  Find Three([Descrição](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/find_three.rb))
+   *  Reorder Index([Descrição](https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reorder_index.rb))
   *  Reversal([Descrição](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reversal.rb))
   *  ([Descrição]() | [Código](/problemas/))
   *  ([Descrição]() | [Código](/problemas/))
+
  * Date
-  *  ([Descrição]() | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
+   *  ([Descrição]() | [Código](/problemas/))
+   *  ([Descrição]() | [Código](/problemas/))
+   *  ([Descrição]() | [Código](/problemas/))
  
 
  ## Reconhecimentos

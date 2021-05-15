@@ -32,12 +32,10 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
  * Array
   *  Find Three ([Descrição](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/find_three.rb))
   *  Reversal ([Descrição](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reversal.rb))
-   *  Reorder Index ([Descrição](https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reorder_index.rb))  
-  *  Positive and Negative  ([Descrição](https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/) | [Código](/problemas/))
-  *  ([Descrição]() | [Código](/problemas/))
-
+  *  Reorder Index ([Descrição](https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reorder_index.rb))  
+  *  Positive and Negative  ([Descrição](https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/positive_and_negative.rb))
  * Date
-   *  ([Descrição]() | [Código](/problemas/))
+   * Find Future ([Descrição](https://www.geeksforgeeks.org/queries-to-find-the-future-closest-date/) | [Código](/problemas/))
    *  ([Descrição]() | [Código](/problemas/))
    *  ([Descrição]() | [Código](/problemas/))
  

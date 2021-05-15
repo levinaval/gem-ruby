@@ -24,17 +24,17 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
  
  ## Problemas
  
- * String
+* String
   *  Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/missing_characters.rb))
   *  Count ([Descrição](https://www.geeksforgeeks.org/count-uppercase-lowercase-special-character-numeric-values/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/count.rb))
   *  Common Characters ([Descrição](https://www.geeksforgeeks.org/common-characters-n-strings/) | [Código](https://github.com/levinaval/gem-ruby/blob/problemas/problemas/common_characters.rb))
   *  Group Words ([Descrição](https://www.geeksforgeeks.org/print-words-together-set-characters/) | [Código](https://github.com/levinaval/gem-ruby/commit/409aa3a4430149cb1f1ca9215ff1f3e513e282eb))
- * Array
+* Array
   *  Find Three ([Descrição](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/find_three.rb))
   *  Reversal ([Descrição](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reversal.rb))
   *  Reorder Index ([Descrição](https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/reorder_index.rb))  
   *  Positive and Negative  ([Descrição](https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/positive_and_negative.rb))
- * Date
+* Date
    * Find Future ([Descrição](https://www.geeksforgeeks.org/queries-to-find-the-future-closest-date/) | [Código](/problemas/))
    *  ([Descrição]() | [Código](/problemas/))
    *  ([Descrição]() | [Código](/problemas/))

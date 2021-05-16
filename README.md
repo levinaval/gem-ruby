@@ -36,7 +36,7 @@ Este projeto tem como objetivo práticar a linguagem Ruby e o desenvolvimento de
   *  Positive and Negative  ([Descrição](https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/) | [Código](https://github.com/levinaval/gem-ruby/blob/release/v0.3/gem_ruby/lib/problemas/positive_and_negative.rb))
 * Date
    * Find Future ([Descrição](https://www.geeksforgeeks.org/queries-to-find-the-future-closest-date/) | [Código](/problemas/))
-   *  ([Descrição]() | [Código](/problemas/))
+   * Sum Minute ([Descrição](https://www.geeksforgeeks.org/program-to-find-the-time-after-k-minutes-from-given-time/) | [Código](/problemas/))
    *  ([Descrição]() | [Código](/problemas/))
  
 
